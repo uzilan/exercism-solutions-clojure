@@ -1,0 +1,4 @@
+language: clojure
+
+install: lein modules install
+script: lein modules test
