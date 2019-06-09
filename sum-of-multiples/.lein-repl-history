@@ -1,0 +1,3 @@
+(com.jakemccrary.test-refresh/run-in-repl "test")
+(require 'com.jakemccrary.test-refresh)
+(quit)
